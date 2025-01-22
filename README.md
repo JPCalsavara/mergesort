@@ -5,7 +5,7 @@ Trabalho prático desenvolvido para a disciplina de Sistemas Operacionais - TT30
 
 Grupo: 2Threads
 
-Discentes: Hitallo Alves Teles Azevedo
+Discentes: Hitallo Alves Teles Azevedo / João Pedro Leite Calsavara
 
 Docente: André Leon S. Gradvohl
 
